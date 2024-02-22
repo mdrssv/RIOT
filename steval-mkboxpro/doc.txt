@@ -1,0 +1,18 @@
+/**
+ * @defgroup    boards_steval-mkboxpro SensorTile.box PRO
+ * @ingroup     boards
+ * @brief       Support for the SensorTile.box PRO board.
+ *
+ * ### General information
+ *
+ * Some general information about the board
+ *
+ * ### Pinout
+ *
+ * A detailed description of the board pinout (if available)
+ *
+ * ### Flash the board
+ *
+ * Some notes about how to flash the board
+ *
+ */
